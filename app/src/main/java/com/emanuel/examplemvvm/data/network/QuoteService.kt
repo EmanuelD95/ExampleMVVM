@@ -1,7 +1,8 @@
-package com.emanuel.examplemvvm.data.model.network
+package com.emanuel.examplemvvm.data.network
 
 import com.emanuel.examplemvvm.core.RetrofitHelper
 import com.emanuel.examplemvvm.data.model.QuoteModel
+import com.emanuel.examplemvvm.data.model.network.QuoteApiClient
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 

@@ -2,7 +2,7 @@ package com.emanuel.examplemvvm.data
 
 import com.emanuel.examplemvvm.data.model.QuoteModel
 import com.emanuel.examplemvvm.data.model.QuoteProvider
-import com.emanuel.examplemvvm.data.model.network.QuoteService
+import com.emanuel.examplemvvm.data.network.QuoteService
 
 class QuoteRepository {
 
